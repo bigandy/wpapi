@@ -1,0 +1,5 @@
+{
+    "username": "user",
+    "password": "password",
+    "endpoint": "http://big-andy.dev/wp-json"
+}
