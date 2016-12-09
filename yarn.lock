@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+abbrev@1:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.0.9.tgz#91b4792588a7738c25f35dd6f63752a2f8776135"
+
 async@^1.4.0:
   version "1.5.2"
   resolved "https://registry.yarnpkg.com/async/-/async-1.5.2.tgz#ec6a61ae56480c0c3cb241c95618e20892f9672a"
@@ -96,11 +100,23 @@ ms@0.7.2:
   version "0.7.2"
   resolved "https://registry.yarnpkg.com/ms/-/ms-0.7.2.tgz#ae25cf2512b3885a1d95d7f037868d8431124765"
 
+node-webcam@^0.3.3:
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/node-webcam/-/node-webcam-0.3.3.tgz#d6742882ad1efba3a69477ba41a30e83a0931b13"
+  dependencies:
+    nopt "*"
+
 node.extend@^1.1.5:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/node.extend/-/node.extend-1.1.6.tgz#a7b882c82d6c93a4863a5504bd5de8ec86258b96"
   dependencies:
     is "^3.1.0"
+
+nopt@*:
+  version "3.0.6"
+  resolved "https://registry.yarnpkg.com/nopt/-/nopt-3.0.6.tgz#c6465dbf08abcd4db359317f79ac68a646b28ff9"
+  dependencies:
+    abbrev "1"
 
 parse-link-header@^0.4.1:
   version "0.4.1"

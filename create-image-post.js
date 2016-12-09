@@ -1,7 +1,6 @@
 var WPAPI = require( 'wpapi' );
 
 const config = require('./config.json');
-const fs = require('fs');
 
 var wp = new WPAPI({
     endpoint: config.endpoint,
@@ -10,7 +9,6 @@ var wp = new WPAPI({
     auth: true
 });
 
-const postId = 3154;
 wp.posts().create({
   title: 'This post has media, tags & categories!',
   content: 'Excellent and compelling demonstration',
@@ -29,6 +27,5 @@ wp.posts().create({
       featured_media: media.id,
       status: 'publish'
     });
-
   });
 });
