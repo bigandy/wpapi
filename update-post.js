@@ -13,9 +13,9 @@ const postId = 3154;
 
 wp.posts().id( postId ).update({
     // Update the excerpt
-    title: 'cool cool title',
-    status: 'publish',
     excerpt: 'there once was a person called HOT',
+}).then(function( response ) {
+    console.log( response );
 })
 .then(response => console.log(response.id))
 .catch(err => console.log(err));
