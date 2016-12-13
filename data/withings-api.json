@@ -1,0 +1,1777 @@
+{
+  "status": 0,
+  "body": {
+    "updatetime": 1481613205,
+    "measuregrps": [
+      {
+        "grpid": 670081142,
+        "attrib": 0,
+        "date": 1481611028,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79673,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 669399136,
+        "attrib": 0,
+        "date": 1481525304,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79566,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 669399114,
+        "attrib": 0,
+        "date": 1481524900,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79481,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 667432922,
+        "attrib": 0,
+        "date": 1481266048,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79949,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 666699244,
+        "attrib": 0,
+        "date": 1481178802,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79778,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 666013693,
+        "attrib": 0,
+        "date": 1481092349,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80090,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 665323472,
+        "attrib": 0,
+        "date": 1481006274,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79645,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 665316832,
+        "attrib": 0,
+        "date": 1481005950,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81687,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 665316810,
+        "attrib": 0,
+        "date": 1481005918,
+        "category": 1,
+        "measures": [
+          {
+            "value": 77816,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 660609452,
+        "attrib": 0,
+        "date": 1480402087,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79715,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 659924548,
+        "attrib": 0,
+        "date": 1480315880,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79336,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 656182882,
+        "attrib": 0,
+        "date": 1479797384,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79713,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 655494477,
+        "attrib": 0,
+        "date": 1479710503,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80514,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 653437812,
+        "attrib": 0,
+        "date": 1479364013,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79746,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 653013532,
+        "attrib": 0,
+        "date": 1479363634,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80173,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 652376793,
+        "attrib": 0,
+        "date": 1479278519,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79100,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 651086688,
+        "attrib": 0,
+        "date": 1479106804,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79562,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 651079805,
+        "attrib": 0,
+        "date": 1479106404,
+        "category": 1,
+        "measures": [
+          {
+            "value": 77758,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 650417539,
+        "attrib": 0,
+        "date": 1479022211,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79862,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 649879076,
+        "attrib": 0,
+        "date": 1478937210,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79343,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 648655382,
+        "attrib": 0,
+        "date": 1478760725,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80064,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 647596069,
+        "attrib": 0,
+        "date": 1478609733,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79582,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 645577706,
+        "attrib": 0,
+        "date": 1478337188,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80898,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 644264663,
+        "attrib": 0,
+        "date": 1478155294,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80905,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 643626384,
+        "attrib": 0,
+        "date": 1478069878,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80077,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 642935380,
+        "attrib": 0,
+        "date": 1477983121,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80056,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 642324791,
+        "attrib": 0,
+        "date": 1477896153,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79911,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 642027591,
+        "attrib": 0,
+        "date": 1477844891,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79835,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 641859413,
+        "attrib": 0,
+        "date": 1477824430,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80663,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 641858339,
+        "attrib": 0,
+        "date": 1477824276,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81081,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 640587234,
+        "attrib": 0,
+        "date": 1477634966,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80030,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 639931815,
+        "attrib": 0,
+        "date": 1477547435,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80908,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 639265244,
+        "attrib": 0,
+        "date": 1477460543,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80673,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 638025747,
+        "attrib": 0,
+        "date": 1477290444,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80040,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 637120312,
+        "attrib": 0,
+        "date": 1477153020,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79600,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 636822890,
+        "attrib": 0,
+        "date": 1477120354,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80539,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 636821889,
+        "attrib": 0,
+        "date": 1477120299,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81097,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 635567106,
+        "attrib": 0,
+        "date": 1476943222,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79711,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 635565953,
+        "attrib": 0,
+        "date": 1476943154,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80274,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 634914630,
+        "attrib": 0,
+        "date": 1476857040,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80159,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 633908404,
+        "attrib": 0,
+        "date": 1476720907,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79679,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 633575461,
+        "attrib": 0,
+        "date": 1476683358,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79784,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 633127846,
+        "attrib": 0,
+        "date": 1476619852,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79988,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 631761992,
+        "attrib": 0,
+        "date": 1476424118,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80726,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 631760727,
+        "attrib": 0,
+        "date": 1476424056,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80553,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 631115163,
+        "attrib": 0,
+        "date": 1476337208,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80534,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 629820794,
+        "attrib": 0,
+        "date": 1476164830,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79881,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 629254761,
+        "attrib": 0,
+        "date": 1476083737,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80411,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 628657148,
+        "attrib": 0,
+        "date": 1476003134,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79994,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 628109901,
+        "attrib": 0,
+        "date": 1475918007,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80624,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 626868741,
+        "attrib": 0,
+        "date": 1475745246,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80239,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 626192620,
+        "attrib": 0,
+        "date": 1475656567,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79536,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 625572492,
+        "attrib": 0,
+        "date": 1475576439,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80729,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 624879413,
+        "attrib": 0,
+        "date": 1475485812,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80880,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 624499181,
+        "attrib": 0,
+        "date": 1475432331,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80640,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 622415092,
+        "attrib": 0,
+        "date": 1475137725,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80562,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 621601222,
+        "attrib": 0,
+        "date": 1475039677,
+        "category": 1,
+        "measures": [
+          {
+            "value": 78733,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 620567328,
+        "attrib": 0,
+        "date": 1474894408,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79943,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 620566852,
+        "attrib": 0,
+        "date": 1474894358,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80483,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 619700592,
+        "attrib": 0,
+        "date": 1474786916,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80578,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 619235649,
+        "attrib": 0,
+        "date": 1474709006,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80572,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 619235255,
+        "attrib": 0,
+        "date": 1474708954,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80996,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 618529633,
+        "attrib": 0,
+        "date": 1474610454,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80958,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 618528720,
+        "attrib": 0,
+        "date": 1474610409,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81034,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 618016720,
+        "attrib": 0,
+        "date": 1474540449,
+        "category": 1,
+        "measures": [
+          {
+            "value": 78566,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 617201544,
+        "attrib": 0,
+        "date": 1474437471,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80801,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 616592879,
+        "attrib": 0,
+        "date": 1474354716,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79902,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 615934069,
+        "attrib": 0,
+        "date": 1474269319,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79586,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 615900612,
+        "attrib": 0,
+        "date": 1474266409,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79901,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 615899975,
+        "attrib": 0,
+        "date": 1474266361,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80296,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 613475778,
+        "attrib": 0,
+        "date": 1473929081,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79741,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 613103800,
+        "attrib": 0,
+        "date": 1473885238,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81244,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 613103790,
+        "attrib": 0,
+        "date": 1473848571,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79484,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 613103783,
+        "attrib": 0,
+        "date": 1473847450,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81654,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 613103776,
+        "attrib": 0,
+        "date": 1473847413,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79488,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 612681753,
+        "attrib": 0,
+        "date": 1473831763,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80524,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 612204264,
+        "attrib": 0,
+        "date": 1473765382,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79547,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 612017730,
+        "attrib": 0,
+        "date": 1473745316,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80056,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 611457594,
+        "attrib": 0,
+        "date": 1473667439,
+        "category": 1,
+        "measures": [
+          {
+            "value": 79717,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 610280487,
+        "attrib": 0,
+        "date": 1473501952,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81006,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 610120842,
+        "attrib": 0,
+        "date": 1473488424,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81118,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 609534084,
+        "attrib": 0,
+        "date": 1473400188,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81692,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 609276173,
+        "attrib": 0,
+        "date": 1473365737,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81648,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 609276168,
+        "attrib": 0,
+        "date": 1473365722,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81709,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 608879457,
+        "attrib": 0,
+        "date": 1473314016,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80690,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 608558322,
+        "attrib": 0,
+        "date": 1473267940,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80388,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 605143756,
+        "attrib": 0,
+        "date": 1472795824,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80624,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 604887710,
+        "attrib": 0,
+        "date": 1472761680,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81346,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 604153803,
+        "attrib": 0,
+        "date": 1472657945,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80842,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 603831224,
+        "attrib": 0,
+        "date": 1472622917,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80833,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 603255266,
+        "attrib": 0,
+        "date": 1472542281,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81241,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 600896485,
+        "attrib": 0,
+        "date": 1472197529,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81232,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 600241356,
+        "attrib": 0,
+        "date": 1472107632,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80683,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 599538518,
+        "attrib": 0,
+        "date": 1472017232,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81594,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 599027413,
+        "attrib": 0,
+        "date": 1471942911,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80700,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 599020777,
+        "attrib": 0,
+        "date": 1471941678,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81070,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 598465405,
+        "attrib": 0,
+        "date": 1471864183,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80376,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 598461365,
+        "attrib": 0,
+        "date": 1471863817,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80548,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 595151551,
+        "attrib": 0,
+        "date": 1471367745,
+        "category": 1,
+        "measures": [
+          {
+            "value": 82086,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 592112339,
+        "attrib": 0,
+        "date": 1470894115,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80389,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 590905869,
+        "attrib": 0,
+        "date": 1470719255,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81373,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 590349836,
+        "attrib": 0,
+        "date": 1470634340,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81368,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 588764110,
+        "attrib": 0,
+        "date": 1470375924,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81122,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 587582963,
+        "attrib": 0,
+        "date": 1470202684,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81135,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 587012190,
+        "attrib": 0,
+        "date": 1470117571,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81865,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 584816588,
+        "attrib": 0,
+        "date": 1469771308,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81305,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 584185345,
+        "attrib": 0,
+        "date": 1469681701,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81571,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 583630631,
+        "attrib": 0,
+        "date": 1469598052,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81059,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 583028270,
+        "attrib": 0,
+        "date": 1469510980,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81219,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 582475696,
+        "attrib": 0,
+        "date": 1469426853,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81252,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 572884657,
+        "attrib": 0,
+        "date": 1467957408,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80950,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 571699429,
+        "attrib": 0,
+        "date": 1467784219,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81030,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 570564497,
+        "attrib": 0,
+        "date": 1467611477,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81000,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 570003383,
+        "attrib": 0,
+        "date": 1467527052,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80254,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 568993795,
+        "attrib": 0,
+        "date": 1467353496,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81599,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 568368830,
+        "attrib": 0,
+        "date": 1467264845,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81394,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 567774981,
+        "attrib": 0,
+        "date": 1467178914,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81008,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 567181650,
+        "attrib": 0,
+        "date": 1467092667,
+        "category": 1,
+        "measures": [
+          {
+            "value": 80740,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 567176111,
+        "attrib": 0,
+        "date": 1467092356,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81132,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 566097590,
+        "attrib": 0,
+        "date": 1466929992,
+        "category": 1,
+        "measures": [
+          {
+            "value": 82284,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 565523993,
+        "attrib": 0,
+        "date": 1466836931,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81360,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 565004897,
+        "attrib": 0,
+        "date": 1466748174,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81313,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 564421277,
+        "attrib": 0,
+        "date": 1466661332,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81225,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 563831091,
+        "attrib": 0,
+        "date": 1466575738,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81539,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 563199930,
+        "attrib": 0,
+        "date": 1466487334,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81660,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 562637403,
+        "attrib": 0,
+        "date": 1466402630,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81759,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 562045745,
+        "attrib": 0,
+        "date": 1466318629,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81371,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 561643718,
+        "attrib": 0,
+        "date": 1466241977,
+        "category": 1,
+        "measures": [
+          {
+            "value": 81220,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 560985980,
+        "attrib": 0,
+        "date": 1466142095,
+        "category": 1,
+        "measures": [
+          {
+            "value": 82350,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 560980828,
+        "attrib": 0,
+        "date": 1466141845,
+        "category": 1,
+        "measures": [
+          {
+            "value": 82858,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 560783592,
+        "attrib": 0,
+        "date": 1466111411,
+        "category": 1,
+        "measures": [
+          {
+            "value": 82930,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 560781519,
+        "attrib": 0,
+        "date": 1466111090,
+        "category": 1,
+        "measures": [
+          {
+            "value": 83320,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 560766570,
+        "attrib": 2,
+        "date": 1466108405,
+        "category": 1,
+        "measures": [
+          {
+            "value": 83900,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 560762142,
+        "attrib": 0,
+        "date": 1466107336,
+        "category": 1,
+        "measures": [
+          {
+            "value": 83921,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 560760092,
+        "attrib": 0,
+        "date": 1466107120,
+        "category": 1,
+        "measures": [
+          {
+            "value": 84096,
+            "type": 1,
+            "unit": -3
+          }
+        ]
+      },
+      {
+        "grpid": 560747720,
+        "attrib": 2,
+        "date": 1466104068,
+        "category": 1,
+        "measures": [
+          {
+            "value": 816,
+            "type": 1,
+            "unit": -1
+          }
+        ]
+      }
+    ],
+    "timezone": "Europe/Paris"
+  }
+}
