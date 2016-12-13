@@ -1,4 +1,4 @@
-var WPAPI = require( 'wpapi' );
+const WPAPI = require( 'wpapi' );
 const loremIpsum = require('lorem-ipsum')
 
 const config = require('./config.json');
