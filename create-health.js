@@ -1,11 +1,11 @@
-var WPAPI = require( 'wpapi' );
+const WPAPI = require( 'wpapi' );
 const loremIpsum = require('lorem-ipsum')
 
 const config = require('./config.json');
 const randomIntFromInterval = require('./helpers/randomIntFromInterval');
 const todaysDate = require('./helpers/todaysDate');
 
-var wp = new WPAPI({
+const wp = new WPAPI({
     endpoint: config.endpoint,
     username: config.username,
     password: config.password,
