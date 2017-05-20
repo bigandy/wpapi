@@ -6,7 +6,7 @@
   "dependencies": {
     "lorem-ipsum": "^1.0.3",
     "moment": "^2.17.1",
-    "node-webcam": "^0.3.3",
+    "node-webcam": "^0.4.1",
     "wpapi": "^1.0.0"
   }
 }
